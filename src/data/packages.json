@@ -1,0 +1,4 @@
+[
+  { "id": "tech", "name": "Technology Package", "price": 4900, "summary": "Hands-on assisted driving, augmented-reality head-up display and a 21-speaker audio system.", "items": ["Assisted highway driving (driver supervised)", "Augmented-reality head-up display", "Roof-mounted sensor array", "21-speaker spatial audio", "Digital rear-view mirror"] },
+  { "id": "performance", "name": "Performance Package", "price": 7900, "summary": "Adaptive dampers, carbon-ceramic brakes, a rear wing and more power from the same battery.", "items": ["+60 kW peak power", "Carbon-ceramic brakes with lime calipers", "Adaptive dampers, 15 mm lower", "Fixed carbon rear wing", "Launch and track modes"], "accelDelta": -0.4, "rangeDelta": -20 }
+]

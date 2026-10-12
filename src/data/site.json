@@ -1,0 +1,48 @@
+{
+  "brand": "VOLT",
+  "notice": "VOLT is a fictional electric vehicle brand created for a design portfolio. Vehicles, specifications and prices are illustrative concepts, not verified real-world figures, and nothing on this site can be ordered.",
+  "currency": "USD",
+  "hero": {
+    "kicker": "VOLT ONE · Concept 01",
+    "lines": ["The Future", "Moves Differently."],
+    "text": "A quiet, electric fastback designed around light, air and the driver.",
+    "primary": "Discover the vehicle",
+    "secondary": "Explore performance"
+  },
+  "showcase": {
+    "kicker": "Flagship",
+    "title": "VOLT ONE",
+    "text": "Long, low and calm. One continuous surface from the light bar to the tail, a glass cabin that seems to float, and a dual-motor drivetrain that stays silent until you ask for more.",
+    "hotspots": [
+      { "id": "light", "label": "Light signature", "text": "A single 2 mm light bar runs the full width of the nose. It greets you, signals and shows the charge level." },
+      { "id": "wheel", "label": "Aero wheels", "text": "Covered 20-inch wheels smooth the air along the sides. Choose a more open design in the configurator." },
+      { "id": "cabin", "label": "Floating cabin", "text": "Blacked-out pillars make the glass canopy read as one piece, with a full glass roof above." }
+    ]
+  },
+  "story": [
+    { "id": "exterior", "kicker": "01 · Exterior", "title": "One line, front to back.", "text": "The body is drawn as a single line that rises over the front wheels, runs flat along the shoulder and falls away into a short tail. No creases that don't do a job.", "stat": { "value": "0", "label": "visible door handles" }, "media": "story-exterior", "tone": "#0b0c0e" },
+    { "id": "aero", "kicker": "02 · Aerodynamics", "title": "Shaped by moving air.", "text": "Air enters through a slot under the light bar, cools the battery and leaves through the wheel arches. Flush glass, covered wheels and a sharp tail help the car slip through the air.", "stat": { "value": "0.21", "label": "drag coefficient (concept target)" }, "media": "story-aero", "tone": "#101215" },
+    { "id": "lighting", "kicker": "03 · Lighting", "title": "A signature, not a lamp.", "text": "Full-width light bars front and rear, each made of 480 individually controlled LEDs. They animate when you approach, pulse while charging and dim in traffic.", "stat": { "value": "480", "label": "LEDs per light bar" }, "media": "story-lighting", "tone": "#0d0e10" },
+    { "id": "interior", "kicker": "04 · Interior", "title": "Quiet by design.", "text": "A low, wide dashboard, a floor without a tunnel and seats wrapped in your choice of leather, vegan leather or wool-blend textile. Double glazing keeps road noise out.", "stat": { "value": "5", "label": "seats, flat floor" }, "media": "story-interior", "tone": "#16171a" },
+    { "id": "interface", "kicker": "05 · Driver interface", "title": "Information where your eyes already are.", "text": "Speed and navigation float in the head-up display. A slim 15-inch screen handles everything else, with physical controls kept for the things you use most.", "stat": { "value": "15\"", "label": "centre display" }, "media": "story-interface", "tone": "#0b0c0e" }
+  ],
+  "energy": {
+    "kicker": "Energy",
+    "title": "Charging, explained.",
+    "text": "The battery sits flat under the floor as part of the structure. An 800-volt system lets it accept high charging power for longer, so stops stay short.",
+    "architecture": "800-volt",
+    "modules": [
+      { "id": "cells", "label": "Prismatic cells", "text": "Large cells packed directly into the pack without separate modules, so more of the space holds energy.", "x": 22, "y": 52 },
+      { "id": "cooling", "label": "Cooling plate", "text": "A liquid-cooled plate under the cells keeps them at the right temperature while charging and driving.", "x": 48, "y": 70 },
+      { "id": "bms", "label": "Battery management", "text": "Monitors every cell, balances charge and plans pre-conditioning when you navigate to a charger.", "x": 74, "y": 40 },
+      { "id": "structure", "label": "Structural case", "text": "The aluminium case is part of the body, which stiffens the car and lowers its centre of gravity.", "x": 50, "y": 24 }
+    ],
+    "curve": [[0, 180], [5, 250], [10, 270], [30, 270], [45, 255], [55, 220], [65, 175], [75, 130], [80, 110], [90, 70], [100, 25]],
+    "philosophy": [
+      { "title": "Use less, then charge less", "text": "Efficiency comes first: low drag, efficient motors and a heat pump, so each kilowatt-hour goes further." },
+      { "title": "Built to be repaired", "text": "The pack is designed so individual parts can be replaced, rather than changing the whole battery." },
+      { "title": "Honest numbers", "text": "Every figure here is a concept target for a fictional car. Real-world range depends on speed, weather, wheels and load." }
+    ]
+  },
+  "cta": { "lines": ["Tomorrow Is", "Already in Motion."], "media": "cta-image" }
+}

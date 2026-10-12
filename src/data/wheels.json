@@ -1,0 +1,5 @@
+[
+  { "id": "aero-20", "name": "Aero 20\"", "style": "aero", "size": 20, "finish": "Gloss silver with aero covers", "hex": "#9aa0a6", "price": 0, "rangeDelta": 0, "note": "Covered design for the lowest drag and the longest range." },
+  { "id": "turbine-21", "name": "Turbine 21\"", "style": "turbine", "size": 21, "finish": "Satin graphite", "hex": "#3a3d42", "price": 2200, "rangeDelta": -18, "note": "Ten curved blades in satin graphite." },
+  { "id": "blade-22", "name": "Blade 22\"", "style": "blade", "size": 22, "finish": "Forged, gloss black", "hex": "#16171a", "price": 4800, "rangeDelta": -35, "note": "Forged split-spoke wheels that show the brakes. Shorter range." }
+]

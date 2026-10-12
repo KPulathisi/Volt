@@ -1,0 +1,10 @@
+[
+  { "id": "obsidian", "name": "Obsidian Black", "finish": "Gloss", "hex": "#0d0e10", "metalness": 0.35, "roughness": 0.22, "price": 0 },
+  { "id": "arctic", "name": "Arctic White", "finish": "Gloss", "hex": "#e9eaec", "metalness": 0.05, "roughness": 0.25, "price": 1200 },
+  { "id": "graphite", "name": "Graphite", "finish": "Metallic", "hex": "#3b3f45", "metalness": 0.7, "roughness": 0.34, "price": 1200 },
+  { "id": "silver", "name": "Liquid Silver", "finish": "Metallic", "hex": "#b7bcc2", "metalness": 0.95, "roughness": 0.18, "price": 1800 },
+  { "id": "ocean", "name": "Deep Current", "finish": "Metallic", "hex": "#1b3550", "metalness": 0.7, "roughness": 0.28, "price": 1800 },
+  { "id": "ember", "name": "Ember Orange", "finish": "Pearl", "hex": "#e0531f", "metalness": 0.45, "roughness": 0.25, "price": 2400 },
+  { "id": "lime", "name": "Volt Lime", "finish": "Signature", "hex": "#c5f23a", "metalness": 0.3, "roughness": 0.25, "price": 2400 },
+  { "id": "stealth", "name": "Stealth Grey", "finish": "Matte", "hex": "#33363a", "metalness": 0.2, "roughness": 0.72, "price": 3200 }
+]

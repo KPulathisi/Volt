@@ -1,0 +1,47 @@
+[
+  {
+    "id": "one",
+    "name": "VOLT ONE",
+    "short": "ONE",
+    "body": "Fastback saloon",
+    "tagline": "The everyday flagship.",
+    "description": "A five-seat fastback with a long wheelbase, a low glass cabin and a single uninterrupted light signature front and rear. Built around comfort, range and a calm, quiet cabin.",
+    "basePrice": 68900,
+    "seats": 5,
+    "specs": { "range": 610, "accel": 3.9, "topSpeed": 230, "chargeRate": 270, "charge10to80": 19, "battery": 92, "power": 440, "drivetrain": "Dual motor, all-wheel drive", "length": 4890, "width": 1960, "height": 1420, "wheelbase": 2960, "weight": 2140, "cargo": 520 },
+    "shape": { "length": 4.89, "width": 1.96, "height": 1.42, "wheelbase": 2.96, "frontOverhang": 0.93, "clearance": 0.15, "roof": [[0.31, 0], [0.40, 1.29], [0.50, 1.42], [0.62, 1.4], [0.79, 1.17], [0.9, 0]], "belt": 0.98, "nose": 0.66 },
+    "allowedWheels": ["aero-20", "turbine-21", "blade-22"],
+    "standardPackages": [],
+    "media": "model-one"
+  },
+  {
+    "id": "touring",
+    "name": "VOLT TOURING",
+    "short": "TOURING",
+    "body": "Shooting brake",
+    "tagline": "Room for the long way round.",
+    "description": "The same calm platform with a longer roof and a flat load floor. More luggage space, a little more range from a gentler tune, and a split tailgate for weekends away.",
+    "basePrice": 74900,
+    "seats": 5,
+    "specs": { "range": 650, "accel": 4.6, "topSpeed": 210, "chargeRate": 270, "charge10to80": 21, "battery": 102, "power": 390, "drivetrain": "Dual motor, all-wheel drive", "length": 4960, "width": 1960, "height": 1470, "wheelbase": 2960, "weight": 2260, "cargo": 690 },
+    "shape": { "length": 4.96, "width": 1.96, "height": 1.47, "wheelbase": 2.96, "frontOverhang": 0.93, "clearance": 0.16, "roof": [[0.31, 0], [0.40, 1.31], [0.50, 1.46], [0.78, 1.44], [0.91, 1.33], [0.955, 0]], "belt": 0.99, "nose": 0.67 },
+    "allowedWheels": ["aero-20", "turbine-21"],
+    "standardPackages": [],
+    "media": "model-touring"
+  },
+  {
+    "id": "performance",
+    "name": "VOLT PERFORMANCE",
+    "short": "PERFORMANCE",
+    "body": "Two-door coupé",
+    "tagline": "Low, wide and quick.",
+    "description": "A lower, wider two-door with a tri-motor drivetrain, a fixed rear wing and track-tuned suspension. The Performance Package comes as standard.",
+    "basePrice": 98900,
+    "seats": 4,
+    "specs": { "range": 520, "accel": 2.6, "topSpeed": 270, "chargeRate": 320, "charge10to80": 17, "battery": 96, "power": 680, "drivetrain": "Tri-motor, all-wheel drive with torque vectoring", "length": 4720, "width": 2010, "height": 1300, "wheelbase": 2850, "weight": 2090, "cargo": 360 },
+    "shape": { "length": 4.72, "width": 2.01, "height": 1.3, "wheelbase": 2.85, "frontOverhang": 0.95, "clearance": 0.12, "roof": [[0.34, 0], [0.45, 1.22], [0.55, 1.3], [0.65, 1.25], [0.82, 1.03], [0.885, 0]], "belt": 0.94, "nose": 0.6 },
+    "allowedWheels": ["turbine-21", "blade-22"],
+    "standardPackages": ["performance"],
+    "media": "model-performance"
+  }
+]

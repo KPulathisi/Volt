@@ -1,0 +1,6 @@
+[
+  { "id": "carbon", "name": "Carbon Black", "material": "Vegan leather with black ash trim", "hex": "#1a1b1e", "accent": "#2c2e33", "price": 0 },
+  { "id": "ash", "name": "Ash Grey", "material": "Wool-blend textile with grey oak trim", "hex": "#8a8c8f", "accent": "#5d5f63", "price": 900 },
+  { "id": "cognac", "name": "Cognac", "material": "Semi-aniline leather with walnut trim", "hex": "#8a4a26", "accent": "#3b2418", "price": 2200 },
+  { "id": "ivory", "name": "Ivory & Lime", "material": "Light vegan leather with lime stitching", "hex": "#d9d4c7", "accent": "#c5f23a", "price": 2600 }
+]
