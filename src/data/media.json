@@ -7,7 +7,7 @@
     "aspect": "21/9",
     "alt": "The VOLT ONE gliding along an empty coastal road at dusk.",
     "prompt": "Cinematic tracking shot alongside a sleek, low electric fastback saloon with a single thin full-width light bar across the nose, a blacked-out glass cabin that looks like one piece, flush door handles, smooth unbroken body surfaces and covered aero wheels, in graphite, gliding along an empty coastal highway at blue hour. Low camera, light bar glowing white, wet asphalt reflections, gentle motion blur on the road. 8–12 seconds, slow steady camera, seamless loop, no cuts. Photorealistic automotive photography of a fictional electric car with no real brand, no logos, no badges and no licence plates. Dark graphite studio or night setting, controlled soft light with crisp reflections, subtle film grain, colour palette of black, graphite and white with a restrained electric lime accent. No text, no watermarks, no people facing the camera.",
-    "file": "",
+    "file": "media/videos/film-video.mp4",
     "credit": ""
   },
   {
@@ -18,7 +18,7 @@
     "aspect": "21/9",
     "alt": "The VOLT ONE on an empty coastal road at dusk.",
     "prompt": "Wide low-angle shot of a sleek, low electric fastback saloon with a single thin full-width light bar across the nose, a blacked-out glass cabin that looks like one piece, flush door handles, smooth unbroken body surfaces and covered aero wheels, in graphite, driving along an empty coastal highway at blue hour, light bar glowing, wet asphalt reflections. Photorealistic automotive photography of a fictional electric car with no real brand, no logos, no badges and no licence plates. Dark graphite studio or night setting, controlled soft light with crisp reflections, subtle film grain, colour palette of black, graphite and white with a restrained electric lime accent. No text, no watermarks, no people facing the camera.",
-    "file": "",
+    "file": "film-poster",
     "credit": ""
   },
   {
@@ -29,7 +29,7 @@
     "aspect": "4/5",
     "alt": "Side profile of the VOLT ONE in a dark studio, one long line from nose to tail.",
     "prompt": "Pure side profile of a sleek, low electric fastback saloon with a single thin full-width light bar across the nose, a blacked-out glass cabin that looks like one piece, flush door handles, smooth unbroken body surfaces and covered aero wheels, in liquid silver, in a black studio. A single long overhead softbox draws one bright reflection line along the whole shoulder from nose to tail. Photorealistic automotive photography of a fictional electric car with no real brand, no logos, no badges and no licence plates. Dark graphite studio or night setting, controlled soft light with crisp reflections, subtle film grain, colour palette of black, graphite and white with a restrained electric lime accent. No text, no watermarks, no people facing the camera.",
-    "file": "",
+    "file": "story-exterior",
     "credit": ""
   },
   {
@@ -40,7 +40,7 @@
     "aspect": "4/5",
     "alt": "Smoke lines flowing over the VOLT ONE in a wind tunnel.",
     "prompt": "A sleek, low electric fastback saloon with a single thin full-width light bar across the nose, a blacked-out glass cabin that looks like one piece, flush door handles, smooth unbroken body surfaces and covered aero wheels, in matte stealth grey, inside a dark wind tunnel. Thin white smoke streams flow smoothly over the bonnet, roof and tail. Side view, slightly from above. Photorealistic automotive photography of a fictional electric car with no real brand, no logos, no badges and no licence plates. Dark graphite studio or night setting, controlled soft light with crisp reflections, subtle film grain, colour palette of black, graphite and white with a restrained electric lime accent. No text, no watermarks, no people facing the camera.",
-    "file": "",
+    "file": "story-aero",
     "credit": ""
   },
   {
